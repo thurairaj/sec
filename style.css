@@ -1,0 +1,19 @@
+.title {
+  font-family: sans-serif, Arial, "Helvetica";
+  font-style: italic;
+  color: #fff;
+
+  background-color: #080835;
+  font-size: 50px;
+  font-weight: lighter;
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.title:hover {
+  background-color: #f0f9b3;
+  color: #000;
+}
